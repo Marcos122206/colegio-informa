@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color:rgb(255, 145, 0) ;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    
+  }
+  
+  nav ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  h2{
+    text-align: center;
+  }
+  
+  .titulo{
+ box-shadow: rgb(255, 145, 0) 1px 1px 20px 30px;
+ font-family: Times New Roman;
+  }
+  
+  footer{
+    text-align: center;
+  }
+
+  .formação{
+    text-align: start;
+    text-shadow: 10px 10px 19px  rgb(255, 145, 0) ;
+    font-family: Times New Roman;
+  }
